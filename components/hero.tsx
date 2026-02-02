@@ -21,7 +21,7 @@ export function Hero() {
             className="bg-background text-foreground hover:bg-background/90 px-8"
           >
             <Link href="#contact">
-              Записаться на консультацию
+              Бесплатная консультация
               <ArrowRight className="ml-2 w-4 h-4" />
             </Link>
           </Button>

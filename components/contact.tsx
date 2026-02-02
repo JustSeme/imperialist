@@ -113,7 +113,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Телефон</p>
-                    <p className="text-muted-foreground">+7 (495) 123-45-67</p>
+                    <p className="text-muted-foreground">+7 961 502-99-09</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -122,7 +122,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Электронная почта</p>
-                    <p className="text-muted-foreground">info@sterling-pravo.ru</p>
+                    <p className="text-muted-foreground">kakaya_pochtaya@yandex.ru</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -132,9 +132,7 @@ export function Contact() {
                   <div>
                     <p className="font-medium text-foreground">Офис</p>
                     <p className="text-muted-foreground">
-                      г. Москва, ул. Тверская, д. 12<br />
-                      Офис 500<br />
-                      125009
+                      г. Краснодар, ул. Красных Партизан, 495<br />​407 офис<br />4 этаж
                     </p>
                   </div>
                 </div>
