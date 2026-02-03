@@ -78,6 +78,7 @@ export function Cases() {
             const Icon = caseStudy.icon
             return (
               <div
+                style={{ marginBottom: "1rem" }}
                 key={index}
                 className="bg-card border border-border rounded-xl overflow-hidden flex flex-col"
               >
@@ -145,6 +146,13 @@ export function Cases() {
           })}
         </div>
 
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-foreground tracking-tight text-balance">
+              Отзывы наших клиентов
+            </h2>
+          </div>
+        </div>
         <div className="mt-16 grid md:grid-cols-2 gap-6">
           <div className="relative">
             <video 
