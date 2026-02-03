@@ -8,25 +8,25 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Новый Баланс | Адвокаты по банкротству',
+  title: 'Империалист | Адвокаты по банкротству',
   description: 'Опытные адвокаты по банкротству помогут вам достичь финансовой свободы. Банкротство физических и юридических лиц, списание долгов.',
   generator: 'v0.app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/favicon.ico',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/favicon.ico',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/favicon.ico',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/favicon.ico',
   },
 }
 

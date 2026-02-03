@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 lg:gap-16">
           <div>
             <Link href="/" className="text-xl font-semibold tracking-tight">
-              Новый Баланс
+              Империалист
             </Link>
             <p className="mt-4 text-primary-foreground/70 text-sm leading-relaxed">
               Опытные адвокаты по банкротству, помогающие вам достичь финансовой свободы и начать жизнь с чистого листа.
@@ -51,7 +51,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-primary-foreground/10">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-primary-foreground/70">
-              &copy; {new Date().getFullYear()} Новый Баланс. Все права защищены.
+              &copy; {new Date().getFullYear()} Империалист. Все права защищены.
             </p>
             <p className="text-xs text-primary-foreground/50 text-center md:text-right max-w-md">
               Информация на сайте носит ознакомительный характер и не является публичной офертой. Прошлые результаты не гарантируют аналогичного исхода.

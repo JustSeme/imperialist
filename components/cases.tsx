@@ -144,6 +144,30 @@ export function Cases() {
             )
           })}
         </div>
+
+        <div className="mt-16 grid md:grid-cols-2 gap-6">
+          <div className="relative">
+            <video 
+              src="/video-feedback01.mp4"
+              className="w-full h-auto rounded-xl border border-border shadow-sm object-cover aspect-video"
+              controls
+              muted
+              loop
+              playsInline
+            />
+          </div>
+          
+          <div className="relative">
+            <video 
+              src="/video-feedback02.mp4"
+              className="w-full h-auto rounded-xl border border-border shadow-sm object-cover aspect-video"
+              controls
+              muted
+              loop
+              playsInline
+            />
+          </div>
+        </div>
       </div>
     </section>
   )

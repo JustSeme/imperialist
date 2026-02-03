@@ -21,7 +21,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16 lg:h-20">
           <Link href="/" className="flex items-center gap-2">
             <span className="text-xl lg:text-2xl font-semibold tracking-tight text-foreground">
-              Новый Баланс
+              Империалист
             </span>
           </Link>
 
